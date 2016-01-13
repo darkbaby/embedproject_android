@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#5f6dba</color>
+    <color name="grey">#626266</color>
+    <color name="greysoft">#9fa1ac</color>
+    <color name="white">#ffffff</color>
+    <color name="white_back">#edeef2</color>
+    <color name="violet_main">#673AB7</color>
+    <color name="violet_pri">#512DA8</color>
+    <color name="violet_active">#9575CD</color>
+    <color name="ColorPrimary">#e62117</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+    <color name="tabsScrollColor">#311B92</color>
+</resources>
